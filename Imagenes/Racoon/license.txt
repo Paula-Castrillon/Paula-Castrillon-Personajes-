@@ -1,0 +1,11 @@
+Model Information:
+* title:	Racoon cartoon style
+* source:	https://sketchfab.com/3d-models/racoon-cartoon-style-ef4c7e106f31441cbe6bc6e6f97b3e1a
+* author:	FR Animation (https://sketchfab.com/fr.animation)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Racoon cartoon style" (https://sketchfab.com/3d-models/racoon-cartoon-style-ef4c7e106f31441cbe6bc6e6f97b3e1a) by FR Animation (https://sketchfab.com/fr.animation) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
